@@ -1,9 +1,16 @@
-<h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h4>
-
+<h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Tanvir Ahmed</a></h4>
+## I'm a 😍😍 JavaScript Lover 😍😍!
+- 🔭 I’m currently working Mern-Stack Development!
+- 🌱 I’m currently learning everything 🤣
+- 🌱 I'm trying to be more creative and will come back soon with something unique 🤣
+- 🥅 2021 Goals: TypeScript, Nuxt.js, Vue & angular
+- ⚡  I always like to learn new things and have experience with new stuff 
+- ⚡ Fun fact: I love to Explore the world 
+- 
 <p align="center">
   <samp>
   <a href="https://discord.gg/6uvgmNa">
-  <img  alt="Ohidur N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img  alt="Tanvir N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/ohidurbappy">
   <img  alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
