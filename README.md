@@ -1,10 +1,13 @@
 <h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Tanvir Ahmed</a></h4>
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- Expertise - React.js, JavaScript, ES6, HTML5, CSS3, React Bootstrap, Bootstrap4, Material UI, Context API, Rest API.
-- Comfortable - Node.js, Express.js, SASS, MongoDB.
-- Familiar - React-Redux, MySQL, Figma, Adobe Photoshop.
-- Beginner - PHP, WordPress, React native.
-- Tools - GitHub, Firebase, Netlify, Heroku, VS Code, Chrome Dev tools, Brackets.
+<ul>
+  <li>Expertise - React.js, JavaScript, ES6, HTML5, CSS3, React Bootstrap, Bootstrap4, Material UI, Context API, Rest API.</li>
+  <li>Comfortable - Node.js, Express.js, SASS, MongoDB.</li>
+  <li>Familiar - React-Redux, MySQL, Figma, Adobe Photoshop.</li>
+  <li>Beginner - PHP, WordPress, React native.</li>
+  <li>Tools - GitHub, Firebase, Netlify, Heroku, VS Code, Chrome Dev tools, Brackets.</li>
+</ul>
+
 
 <p align="center">
   <samp>
