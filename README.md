@@ -1,5 +1,5 @@
-<h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Tanvir Ahmed</a></h4>
-## I'm a 😍😍 JavaScript Lover 😍😍!
+<h4 align="center"> Hi 👋 there, I'm Tanvir Ahmed</a></h4>
+<h4 align="center">I am a web developer with a strong interest in projects that require both conceptual and analytical thinking. I'm always eager to learn from anyone and everyone.</h4>
 <ul>
   <li>Expertise - React.js, JavaScript, ES6, HTML5, CSS3, React Bootstrap, Bootstrap4, Material UI, Context API, Rest API.</li>
   <li>Comfortable - Node.js, Express.js, SASS, MongoDB.</li>
