@@ -53,29 +53,3 @@ Here are some ideas to get you started:
 
 <h3 align="center">📕 Latest Blog Posts</h3>
 
-<!-- BLOG-POST-LIST:START -->
-
-- [C Sharp code snippets](https://blog.ohidur.com/posts/c-sharp-sinppets/)
-- [Raspberry pi articles by Ohidur Rahman Bappy](https://blog.ohidur.com/posts/raspberry-pi/)
-- [Creating a Django REST API](https://blog.ohidur.com/posts/django-rest-todo/)
-- [Visual Studio Code (VSCode) Cheatsheet](https://blog.ohidur.com/posts/vscode-cheatsheet/)
-- [Software and Tools I use everyday as a developer](https://blog.ohidur.com/posts/tools-i-use-as-a-developer/)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="center">📺 Latest YouTube Videos</h3>
-
-<!-- YOUTUBE:START -->
-
-- [What is windows sysinternals software suite and how to access it?](https://www.youtube.com/watch?v=c90j2_8Z-bk)
-- [Deploy python flask app on #Cpanel shared hosting](https://www.youtube.com/watch?v=260eDcsUheE)
-- [Next Level GitHub Profile README (2020) - Create An Amazing Profile ReadMe With #GitHub Actions](https://www.youtube.com/watch?v=ZnJjJAxaq5Q)
-- [[Tutorial] How to create and destroy DigitalOcean Droplet - Cloud Server - DevOps Guide](https://www.youtube.com/watch?v=YxqQ0oF46bo)
-- [How to remove background from image in one click - remove.bg](https://www.youtube.com/watch?v=8Inl23cfjsY)
-<!-- YOUTUBE:END -->
-
-<h2 align="center">I ❤️ Memes :wink:</h2>
-<p align="center">
-<img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
-</p>
-0
-
