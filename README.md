@@ -44,7 +44,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TanvirAhmed177&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </p>
 <br/>
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/TanvirAhmed177/TanvirAhmed177)
+<img alt="Abdur rahman Github Stats" align="" height='156px' src="https://github-readme-stats.vercel.app/api?username=TanvirAhmed177&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 
 
  
