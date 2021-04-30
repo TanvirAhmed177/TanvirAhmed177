@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: TypeScript, Nuxt.js, Vue & angular
 - ⚡  I always like to learn new things and have experience with new stuff 
 - ⚡ Fun fact: I love to Explore the world 
-- 
+
 <p align="center">
   <samp>
   <a href="https://discord.gg/6uvgmNa">
