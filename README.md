@@ -44,9 +44,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TanvirAhmed177&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
 </p>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmed177&card_width=550)](https://github.com/TanvirAhmed177">
-
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmed177&card_width=550)](https://github.com/TanvirAhmed177">
+</p>
 
 
  
