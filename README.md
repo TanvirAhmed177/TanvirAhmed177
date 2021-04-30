@@ -1,11 +1,10 @@
 <h4 align="center"> Hi 👋 there, I'm <a href="https://www.ohidur.com">Tanvir Ahmed</a></h4>
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working Mern-Stack Development!
-- 🌱 I’m currently learning everything 🤣
-- 🌱 I'm trying to be more creative and will come back soon with something unique 🤣
-- 🥅 2021 Goals: TypeScript, Nuxt.js, Vue & angular
-- ⚡  I always like to learn new things and have experience with new stuff 
-- ⚡ Fun fact: I love to Explore the world 
+- Expertise - React.js, JavaScript, ES6, HTML5, CSS3, React Bootstrap, Bootstrap4, Material UI, Context API, Rest API.
+- Comfortable - Node.js, Express.js, SASS, MongoDB.
+- Familiar - React-Redux, MySQL, Figma, Adobe Photoshop.
+- Beginner - PHP, WordPress, React native.
+- Tools - GitHub, Firebase, Netlify, Heroku, VS Code, Chrome Dev tools, Brackets.
 
 <p align="center">
   <samp>
