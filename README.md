@@ -2,7 +2,7 @@
 <h4 align="center">I am a web developer with a strong interest in projects that require both conceptual and analytical thinking. I'm always eager to learn from anyone and everyone.</h4>
 <ul>
   <li>Expertise - React.js, JavaScript, ES6, HTML5, CSS3, React Bootstrap, Bootstrap4, Material UI, Context API, Rest API.</li>
-  <li>Comfortable - Node.js, Express.js, SASS, MongoDB.</li>
+  <li>Comfortable - Node.js, Express.js, SASS, MongoDB, Tailwind CSS.</li>
   <li>Familiar - React-Redux, MySQL, Figma, Adobe Photoshop.</li>
   <li>Beginner - PHP, WordPress, React native.</li>
   <li>Tools - GitHub, Firebase, Netlify, Heroku, VS Code, Chrome Dev tools, Brackets.</li>
