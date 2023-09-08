@@ -34,9 +34,10 @@
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TanvirAhmed177" alt="TanvirAhmed177" /> 
+  <br>
+  <br>
 </p>
-<be>
-<br>
+
 ## _Languages and Tools:_ ⚡
   <br>
 <p align="center"> 
