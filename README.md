@@ -37,7 +37,7 @@
 </p>
 
 ## _Languages and Tools:_ ⚡
-
+  <br>
 <p align="center"> 
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/></a>&nbsp;
       <a href="https://react.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>&nbsp;
