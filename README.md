@@ -36,16 +36,6 @@
   <img src="https://komarev.com/ghpvc/?username=TanvirAhmed177" alt="ohidurbappy" /> 
 </p>
 
-
-## _Github Stats:_ ⚡
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TanvirAhmed177&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</p>
-<br/>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmed177&card_width=550)](https://github.com/TanvirAhmed177">
-</p>
-
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=TanvirAhmed177&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmed177&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
