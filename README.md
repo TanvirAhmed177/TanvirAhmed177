@@ -39,7 +39,7 @@
 ## _Languages and Tools:_ ⚡
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 10px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin-right: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40" />
   </a>
   <a href="https://react.dev/" target="_blank" style="margin-right: 10px;">
