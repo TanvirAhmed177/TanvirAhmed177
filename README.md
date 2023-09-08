@@ -12,9 +12,6 @@
 
 <p align="center">
   <samp>
-  <a href="#">
-  <img  alt="Tanvir N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
 <a href="https://twitter.com/TanvirA98971632">
   <img  alt="Tanvir's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -29,6 +26,9 @@
 </a>
 <a href="https://www.facebook.com/tanvirahmed403/">
   <img  alt="Tanvir's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="#">
+  <img  alt="Tanvir N Friends Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
   </samp>
   
