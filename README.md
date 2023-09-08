@@ -13,19 +13,19 @@
 <p align="center">
   <samp>
 <a href="https://twitter.com/TanvirA98971632" target="_blank">
-  <img  alt="Tanvir's Twitter" width="16px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
+  <img  alt="Tanvir's Twitter" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tanvir-ahamed-466051190/" target="_blank">
-  <img  alt="Tanvir's Linkdein" width="16px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  <img  alt="Tanvir's Linkdein" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.instagram.com/tanvir_ahmed_403/" target="_blank">
-  <img  alt="Tanvir's Instagram" width="16px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  <img  alt="Tanvir's Instagram" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/tanvirahmed403/" target="_blank">
-  <img  alt="Tanvir's Facebook" width="16px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
+  <img  alt="Tanvir's Facebook" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" />
 </a>
 <a href="https://medium.com/@ahmed-tanvir-siddik" target="_blank">
-  <img  alt="Tanvir's Facebook" width="16px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />
+  <img  alt="Tanvir's Medium" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" />
 </a>
   </samp>
   
