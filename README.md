@@ -33,7 +33,7 @@
  </p>
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanvirAhmed177" alt="ohidurbappy" /> 
+  <img src="https://komarev.com/ghpvc/?username=TanvirAhmed177" alt="TanvirAhmed177" /> 
 </p>
 
 <p align="center">
