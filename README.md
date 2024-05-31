@@ -9,7 +9,7 @@
   <img  alt="Tanvir's Twitter" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/tanvir-ahamed-466051190/" target="_blank">
-  <img  alt="Tanvir's Linkdein" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
+  <img  alt="Tanvir's Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
 </a>
 <a href="https://www.instagram.com/tanvir_ahmed_403/" target="_blank">
   <img  alt="Tanvir's Instagram" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
@@ -53,13 +53,13 @@
     </p>
   <br>
   <br>
-<p align="center">
+<!-- <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=TanvirAhmed177&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmed177&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=TanvirAhmed177&theme=darcula&hide_border=true&background=FFFFFF00">
 
   </a>
-</p>
+</p> -->
 
  
 
