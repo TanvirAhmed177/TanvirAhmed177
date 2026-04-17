@@ -1,6 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:a855f7&height=200&section=header&text=Tanvir%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React%20%26%20Next.js%20Specialist&descAlignY=60&descSize=18" width="100%"/>
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#60a5fa"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <!-- wave shape at bottom -->
+  <path d="M0,160 C150,200 350,120 600,170 C750,200 850,150 900,160 L900,200 L0,200 Z" fill="#161b22" opacity="0.8"/>
+  <!-- decorative dots -->
+  <circle cx="60" cy="40" r="3" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="120" cy="70" r="2" fill="#60a5fa" opacity="0.5"/>
+  <circle cx="820" cy="35" r="3" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="860" cy="80" r="2" fill="#60a5fa" opacity="0.4"/>
+  <circle cx="780" cy="60" r="4" fill="#818cf8" opacity="0.3"/>
+  <circle cx="40" cy="100" r="2" fill="#c084fc" opacity="0.4"/>
+  <!-- name -->
+  <text x="450" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" text-anchor="middle" fill="url(#textGrad)">Tanvir Ahmed</text>
+  <!-- subtitle -->
+  <text x="450" y="135" font-family="'Segoe UI', Arial, sans-serif" font-size="17" text-anchor="middle" fill="#94a3b8" letter-spacing="1">Full-Stack Developer  ·  React  &amp;  Next.js  Specialist</text>
+  <!-- underline accent -->
+  <rect x="340" y="148" width="220" height="2" rx="1" fill="url(#textGrad)" opacity="0.7"/>
+</svg>
 
 </div>
 
@@ -121,6 +149,15 @@ const tanvir = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TanvirAhmed177&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<svg viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg" width="100%">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 C200,60 500,10 700,50 C800,70 870,30 900,0 L900,80 L0,80 Z" fill="url(#footerBg)"/>
+</svg>
 
 </div>
