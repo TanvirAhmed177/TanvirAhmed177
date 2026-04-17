@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋 there, I'm Tanvir Ahmed</a></h2>
+<h2 align="center"> Hi 👋 there, I'm Tanvir Ahmed</h2>
 <h4 align="center">Enthusiastic React and Next.js developer dedicated to crafting high-performance, scalable web applications. My approach combines strategic thinking with hands-on coding. Always ready to learn and share knowledge with the developer community.</h4>
   <br>
   <br>
