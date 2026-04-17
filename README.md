@@ -51,6 +51,9 @@
 
 </div>
 
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=TanvirAhmed177&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+ 
 <svg viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg" width="100%">
   <defs>
     <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -61,3 +64,4 @@
   </defs>
   <path d="M0,0 C200,60 500,10 700,50 C800,70 870,30 900,0 L900,80 L0,80 Z" fill="url(#footerBg)"/>
 </svg>
+</div>
