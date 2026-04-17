@@ -15,6 +15,7 @@
 
 <br>
 
+
 ## 🛠️ Tech Stack
 
 <br>
@@ -50,15 +51,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TanvirAhmed177&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-<svg viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg" width="100%">
-  <defs>
-    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0f0c29"/>
-      <stop offset="50%" style="stop-color:#302b63"/>
-      <stop offset="100%" style="stop-color:#24243e"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,0 C200,60 500,10 700,50 C800,70 870,30 900,0 L900,80 L0,80 Z" fill="url(#footerBg)"/>
-</svg>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
 
 </div>
