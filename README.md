@@ -15,6 +15,11 @@
 
 <br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TanvirAhmed177" alt="TanvirAhmed177" />
+</p>
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -45,12 +50,17 @@
 </div>
 
 <br>
-<br>
+
+---
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TanvirAhmed177&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let%27s+build+something+amazing+together+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=180&section=footer&text=Happy%20Coding%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70)
