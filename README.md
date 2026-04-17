@@ -15,12 +15,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanvirAhmed177" alt="TanvirAhmed177" />
-</p>
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <br>
